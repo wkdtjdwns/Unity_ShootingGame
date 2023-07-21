@@ -32,9 +32,6 @@
 ![image](https://github.com/wkdtjdwns/Unity_JumpKing/assets/128266768/f6d6e6cb-d2c8-462b-99c1-8b10351f9870)
 
 
-
-
-
-● Option
+### Option
 
 ![image](https://github.com/wkdtjdwns/Unity_JumpKing/assets/128266768/85e5455c-d1c7-40ac-bea3-7dbd48bec9ae)
