@@ -1,20 +1,20 @@
 # Unity_ShootingGame
-● Simple Shooting Game
+- Simple Shooting Game
  
 # Control
-## ● Move
-● W = Up Move
+## - Move
+- W = Up Move
 
-● A = Left Move
+- A = Left Move
 
-● S = Down Move
+- S = Down Move
 
-● D = Right Move
+- D = Right Move
 
-## ● Shot
-● Mouse Left Button = fire
+## - Shot
+- Mouse Left Button = fire
 
-● Mouse Right Button = boom
+- Mouse Right Button = boom
 
 # Play Scene
 ### Boom
