@@ -11,7 +11,7 @@
 
 - D = Right Move
 
-## - Shot
+## ● Shot
 - Mouse Left Button = fire
 
 - Mouse Right Button = boom
