@@ -2,7 +2,7 @@
 - Simple Shooting Game
  
 # Control
-## - Move
+## ● Move
 - W = Up Move
 
 - A = Left Move
